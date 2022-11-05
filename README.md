@@ -1,2 +1,2 @@
-# Bogdan
+Token Checker PMS
 Token Checker
